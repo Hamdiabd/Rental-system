@@ -16,7 +16,7 @@
 
 [افتح النظام الآن](https://hamdiabd.github.io/Rental-system/)
 
-![واجهة النظام](https://hamdiimage.infy.uk/Hamdi-soft .png)
+![واجهة النظام](hamdiabd.kesug.com/Hamdi-soft.png)
 
 ## للتواصل:
 
